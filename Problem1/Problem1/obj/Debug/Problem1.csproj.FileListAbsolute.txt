@@ -1,0 +1,26 @@
+D:\.NET_Wipro\Problem1\Problem1\bin\Debug\Problem1.exe.config
+D:\.NET_Wipro\Problem1\Problem1\bin\Debug\Problem1.exe
+D:\.NET_Wipro\Problem1\Problem1\bin\Debug\Problem1.pdb
+D:\.NET_Wipro\Problem1\Problem1\obj\Debug\Problem1.csproj.AssemblyReference.cache
+D:\.NET_Wipro\Problem1\Problem1\obj\Debug\Problem1.Form1.resources
+D:\.NET_Wipro\Problem1\Problem1\obj\Debug\Problem1.Form2.resources
+D:\.NET_Wipro\Problem1\Problem1\obj\Debug\Problem1.Form3.resources
+D:\.NET_Wipro\Problem1\Problem1\obj\Debug\Problem1.Form4.resources
+D:\.NET_Wipro\Problem1\Problem1\obj\Debug\Problem1.Properties.Resources.resources
+D:\.NET_Wipro\Problem1\Problem1\obj\Debug\Problem1.csproj.GenerateResource.cache
+D:\.NET_Wipro\Problem1\Problem1\obj\Debug\Problem1.csproj.CoreCompileInputs.cache
+D:\.NET_Wipro\Problem1\Problem1\obj\Debug\Problem1.exe
+D:\.NET_Wipro\Problem1\Problem1\obj\Debug\Problem1.pdb
+E:\FRIEND\4TH WEEK\Problem1\Problem1\Problem1\bin\Debug\Problem1.exe.config
+E:\FRIEND\4TH WEEK\Problem1\Problem1\Problem1\bin\Debug\Problem1.exe
+E:\FRIEND\4TH WEEK\Problem1\Problem1\Problem1\bin\Debug\Problem1.pdb
+E:\FRIEND\4TH WEEK\Problem1\Problem1\Problem1\obj\Debug\Problem1.csproj.AssemblyReference.cache
+E:\FRIEND\4TH WEEK\Problem1\Problem1\Problem1\obj\Debug\Problem1.Form1.resources
+E:\FRIEND\4TH WEEK\Problem1\Problem1\Problem1\obj\Debug\Problem1.Form2.resources
+E:\FRIEND\4TH WEEK\Problem1\Problem1\Problem1\obj\Debug\Problem1.Form3.resources
+E:\FRIEND\4TH WEEK\Problem1\Problem1\Problem1\obj\Debug\Problem1.Form4.resources
+E:\FRIEND\4TH WEEK\Problem1\Problem1\Problem1\obj\Debug\Problem1.Properties.Resources.resources
+E:\FRIEND\4TH WEEK\Problem1\Problem1\Problem1\obj\Debug\Problem1.csproj.GenerateResource.cache
+E:\FRIEND\4TH WEEK\Problem1\Problem1\Problem1\obj\Debug\Problem1.csproj.CoreCompileInputs.cache
+E:\FRIEND\4TH WEEK\Problem1\Problem1\Problem1\obj\Debug\Problem1.exe
+E:\FRIEND\4TH WEEK\Problem1\Problem1\Problem1\obj\Debug\Problem1.pdb
